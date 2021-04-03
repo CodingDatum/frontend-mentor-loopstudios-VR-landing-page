@@ -24,10 +24,11 @@ body {
 
 header {
   height: auto;
-  background: rgba(0, 0, 0, 0.4), url("images/desktop/image-hero.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.4);
   background-blend-mode: darken;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("/images/desktop/image-hero.jpg");
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
