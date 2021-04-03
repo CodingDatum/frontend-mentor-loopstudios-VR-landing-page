@@ -24,7 +24,7 @@ body {
 
 header {
   height: auto;
-  background: rgba(0, 0, 0, 0.4) url("/images/desktop/image-hero.jpg");
+  background: rgba(0, 0, 0, 0.4), url("/images/desktop/image-hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: darken;
