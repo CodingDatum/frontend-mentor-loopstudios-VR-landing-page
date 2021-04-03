@@ -16,3 +16,7 @@ for(let i = 0 ; i < creations.length; i++){
     creations[i].style.backgroundImage = backgroundImages[i];
 
 }
+
+
+let header = document.querySelector("header");
+header.style.backgroundImage = "url('images/desktop/image-hero.jpg')";
