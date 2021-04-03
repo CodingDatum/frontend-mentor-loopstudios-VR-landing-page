@@ -20,7 +20,7 @@ body{
 
 header{
     height: auto;
-    background: rgba(0,0,0,0.40) url($header-bg-image);
+    background: rgba(0,0,0,0.40), url($header-bg-image);
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: darken;
